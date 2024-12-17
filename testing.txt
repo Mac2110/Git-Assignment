@@ -1,2 +1,2 @@
 This is a new file on git hub.
-Take pull to test the feature.
+
